@@ -4,8 +4,8 @@ class script(object):
 Mʏ Nᴀᴍᴇ Is {bot}.
 
 I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇ Fᴏʀ Yᴏᴜ Jᴏɪɴ Oᴜʀ Gʀᴏᴜᴘ
-<blockquote>ᴍᴀɴᴛᴀɪɴᴇᴅ ʙʏ : <a href="https://t.me/xaekks">𓆩•𝐊𝐢𝐬𝐬𝐮 💞•𓆪</a>
-</blockquote></b>""" 
+ᴍᴀɴᴛᴀɪɴᴇᴅ ʙʏ : <a href="https://t.me/xaekks">𓆩•𝐊𝐢𝐬𝐬𝐮 💞•𓆪</a>
+</b>""" 
     
     HELP_TXT = "Hᴇʏ {}\nHᴇʀᴇ Mꜱ Mʏ Hᴇʟᴩ"
 
